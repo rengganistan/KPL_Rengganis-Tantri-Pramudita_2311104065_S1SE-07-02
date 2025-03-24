@@ -25,10 +25,20 @@ namespace modul6_2311104065
 
         public void IncreasePlayCount(int count)
         {
-            if (count < 0 || count > 10000000)
-                throw new ArgumentOutOfRangeException("Count must be between 0 and 10,000,000");
+            if (count < 0 || count > 25000000)
+                throw new ArgumentOutOfRangeException("Count must be between 0 and 25,000,000");
 
-            this.playCount += count;
+            try
+            {
+                checked
+                {
+                    this.playCount += count;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Error: Play count exceeded the maximum limit!");
+            }
         }
 
         public void PrintVideoDetails()

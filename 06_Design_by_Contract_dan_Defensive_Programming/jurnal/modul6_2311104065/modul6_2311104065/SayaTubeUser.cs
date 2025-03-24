@@ -8,7 +8,6 @@ namespace modul6_2311104065
 {
     class SayaTubeUser
     {
-        private static Random rand = new Random();
         private int id;
         private List<SayaTubeVideo> uploadedVideos;
         public string Username { get; private set; }
@@ -18,7 +17,7 @@ namespace modul6_2311104065
             if (string.IsNullOrEmpty(username) || username.Length > 100)
                 throw new ArgumentException("Username cannot be empty or exceed 100 characters");
 
-            this.id = rand.Next(10000, 99999);
+            this.id = new Random().Next(10000, 99999);
             this.Username = username;
             this.uploadedVideos = new List<SayaTubeVideo>();
         }
@@ -28,8 +27,8 @@ namespace modul6_2311104065
             if (video == null)
                 throw new ArgumentNullException("Video cannot be null");
 
-            if (uploadedVideos.Count >= 10)
-                throw new InvalidOperationException("Maximum of 10 videos can be uploaded.");
+            if (video.GetPlayCount() >= int.MaxValue)
+                throw new OverflowException("Video play count is too high!");
 
             uploadedVideos.Add(video);
         }
@@ -47,14 +46,10 @@ namespace modul6_2311104065
         public void PrintAllVideoPlaycount()
         {
             Console.WriteLine($"User: {Username}");
-            Console.WriteLine("Daftar Video yang Diupload:");
-            Console.WriteLine("-----------------------------");
-            for (int i = 0; i < uploadedVideos.Count; i++)
+            for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
             {
                 Console.WriteLine($"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}");
             }
-            Console.WriteLine("-----------------------------");
         }
     }
-
 }
