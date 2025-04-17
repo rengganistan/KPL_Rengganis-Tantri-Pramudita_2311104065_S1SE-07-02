@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8_2311104065\\tpmodul8_2311104065\\tpmodul8_2311104065.csproj": {}
+    "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8-2311104065\\tpmodul8-2311104065\\tpmodul8-2311104065.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8_2311104065\\tpmodul8_2311104065\\tpmodul8_2311104065.csproj": {
+    "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8-2311104065\\tpmodul8-2311104065\\tpmodul8-2311104065.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8_2311104065\\tpmodul8_2311104065\\tpmodul8_2311104065.csproj",
-        "projectName": "tpmodul8_2311104065",
-        "projectPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8_2311104065\\tpmodul8_2311104065\\tpmodul8_2311104065.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8-2311104065\\tpmodul8-2311104065\\tpmodul8-2311104065.csproj",
+        "projectName": "tpmodul8-2311104065",
+        "projectPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8-2311104065\\tpmodul8-2311104065\\tpmodul8-2311104065.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8_2311104065\\tpmodul8_2311104065\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tpmodul8-2311104065\\tpmodul8-2311104065\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

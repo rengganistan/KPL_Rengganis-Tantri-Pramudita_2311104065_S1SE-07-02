@@ -1,9 +1,0 @@
-﻿.vs/
-*.user
-*.suo
-*.vsidx
-*.vssscc
-*.dbmdl
-*.log
-bin/
-obj/
