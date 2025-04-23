@@ -31,7 +31,7 @@ namespace modul7_kelompol7
 
         public void ReadJSON()
         {
-            string jsonString = File.ReadAllText("jurnal7_1_2311104045.json");
+            string jsonString = File.ReadAllText("jurnal7_1_2311104065.json");
             DataMahasiswa2311104065 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa2311104065>(jsonString);
 
             Console.WriteLine($"Nama: {mahasiswa.firstName} {mahasiswa.lastName}");
