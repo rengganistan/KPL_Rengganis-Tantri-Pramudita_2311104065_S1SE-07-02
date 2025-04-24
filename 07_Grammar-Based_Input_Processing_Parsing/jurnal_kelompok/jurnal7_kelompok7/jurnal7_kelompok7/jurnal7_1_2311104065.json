@@ -1,0 +1,48 @@
+
+{
+   "firstName": "Rengganis",
+   "lastName": "Pramudita",
+   "gender": "female",
+   "age": 20,
+   "address": {
+       "streetAddress": "Soka Karangdowo",
+       "city": "Klaten",
+       "state": "Jawa Tengah"
+   },
+  "courses": [
+    {
+      "code": "YIS",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+
+    {
+      "code": "AAH",
+      "name": "Arsitektur dan Desain Perangkat Lunak"
+    },
+
+    {
+      "code": "MSA",
+      "name": "Basis Data"
+    },
+
+    {
+      "code": "GFA",
+      "name": "Interaksi Manusia Komputer"
+    },
+
+    {
+      "code": "RAD",
+      "name": "Pemodelan Perangkat Lunak"
+    },
+
+    {
+      "code": "ADI",
+      "name": "Proyek Tingkat II"
+    },
+
+    {
+      "code": "GFA",
+      "name": "Rekayasa Kebutuhan Perangkat Lunak"
+    }
+  ]
+}
