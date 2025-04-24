@@ -6,64 +6,30 @@ using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace modul7_kelompol7
-{ 
- public class Member
 {
-    public string firstName { get; set; }
-    public string lastName { get; set; }
-    public string gender { get; set; }
-    public int age { get; set; }
-    public string nim { get; set; }
-}
-
-public class TeamMembers2311104065
-{
-    public Member[] members { get; set; }
-
-    public void ReadJSON()
+    public class Member
     {
-        string jsonString = File.ReadAllText("jurnal7_2_2311104065.json");
-        TeamMembers2311104065 team = JsonSerializer.Deserialize<TeamMembers2311104065>(jsonString);
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public string gender { get; set; }
+        public int age { get; set; }
+        public string nim { get; set; }
+    }
 
-        Console.WriteLine("Team member list:");
-        foreach (var member in team.members)
+    public class TeamMembers2311104065
+    {
+        public Member[] members { get; set; }
+
+        public void ReadJSON()
         {
-            Console.WriteLine($"{member.nim} {member.firstName} {member.lastName} ({member.age} {member.gender})");
+            string jsonString = File.ReadAllText("jurnal7_2_2311104065.json");
+            TeamMembers2311104065 team = JsonSerializer.Deserialize<TeamMembers2311104065>(jsonString);
+
+            Console.WriteLine("Team member list:");
+            foreach (var member in team.members)
+            {
+                Console.WriteLine($"{member.nim} {member.firstName} {member.lastName} ({member.age} {member.gender})");
+            }
         }
     }
-}
-}using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-namespace modul7_kelompol7
-{ 
- public class Member
-{
-    public string firstName { get; set; }
-    public string lastName { get; set; }
-    public string gender { get; set; }
-    public int age { get; set; }
-    public string nim { get; set; }
-}
-
-public class TeamMembers2311104065
-{
-    public Member[] members { get; set; }
-
-    public void ReadJSON()
-    {
-        string jsonString = File.ReadAllText("jurnal7_2_2311104065.json");
-        TeamMembers2311104065 team = JsonSerializer.Deserialize<TeamMembers2311104065>(jsonString);
-
-        Console.WriteLine("Team member list:");
-        foreach (var member in team.members)
-        {
-            Console.WriteLine($"{member.nim} {member.firstName} {member.lastName} ({member.age} {member.gender})");
-        }
-    }
-}
 }

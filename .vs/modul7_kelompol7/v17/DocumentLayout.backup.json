@@ -11,6 +11,23 @@
       "RelativeMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|solutionrelative:modul7_kelompol7\\datamahasiswa2311104065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\07_grammar-based_input_processing_parsing\\modul7_kelompol7\\modul7_kelompol7\\glossaryitem2311104065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|solutionrelative:modul7_kelompol7\\glossaryitem2311104065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\07_grammar-based_input_processing_parsing\\modul7_kelompol7\\modul7_kelompol7\\teammembers2311104065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|solutionrelative:modul7_kelompol7\\teammembers2311104065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\jurnal7_3_2311104065.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\jurnal7_2_2311104065.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\jurnal7_2_nim.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\07_grammar-based_input_processing_parsing\\modul7_kelompol7\\modul7_kelompol7\\modul7_kelompol7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A993B3F7-7945-4BF2-99E9-667CE911A0D8}|modul7_kelompol7\\modul7_kelompol7.csproj|solutionrelative:modul7_kelompol7\\modul7_kelompol7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -26,45 +43,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataMahasiswa2311104065.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\DataMahasiswa2311104065.cs",
-              "RelativeDocumentMoniker": "modul7_kelompol7\\DataMahasiswa2311104065.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\DataMahasiswa2311104065.cs",
-              "RelativeToolTip": "modul7_kelompol7\\DataMahasiswa2311104065.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA0wCIAAABiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GlossaryItem2311104065.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\GlossaryItem2311104065.cs",
+              "RelativeDocumentMoniker": "modul7_kelompol7\\GlossaryItem2311104065.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\GlossaryItem2311104065.cs",
+              "RelativeToolTip": "modul7_kelompol7\\GlossaryItem2311104065.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:57:34.654Z",
+              "WhenOpened": "2025-04-24T01:52:07.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\.gitignore.txt",
-              "RelativeDocumentMoniker": "modul7_kelompol7\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\.gitignore.txt",
-              "RelativeToolTip": "modul7_kelompol7\\.gitignore.txt",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAqwJEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-23T17:45:28.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "modul7_kelompol7",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\modul7_kelompol7.csproj",
-              "RelativeDocumentMoniker": "modul7_kelompol7\\modul7_kelompol7.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\modul7_kelompol7.csproj",
-              "RelativeToolTip": "modul7_kelompol7\\modul7_kelompol7.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-23T17:45:14.066Z",
+              "Title": "TeamMembers2311104065.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\TeamMembers2311104065.cs",
+              "RelativeDocumentMoniker": "modul7_kelompol7\\TeamMembers2311104065.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\TeamMembers2311104065.cs*",
+              "RelativeToolTip": "modul7_kelompol7\\TeamMembers2311104065.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:31:03.802Z",
               "EditorCaption": ""
             },
             {
@@ -73,12 +77,86 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompol7\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\Program.cs",
-              "RelativeToolTip": "modul7_kelompol7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\Program.cs*",
+              "RelativeToolTip": "modul7_kelompol7\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T17:39:16.289Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataMahasiswa2311104065.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\DataMahasiswa2311104065.cs",
+              "RelativeDocumentMoniker": "modul7_kelompol7\\DataMahasiswa2311104065.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\DataMahasiswa2311104065.cs",
+              "RelativeToolTip": "modul7_kelompol7\\DataMahasiswa2311104065.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:57:34.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jurnal7_3_2311104065.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jurnal7_3_2311104065.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\jurnal7_3_2311104065.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jurnal7_3_2311104065.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\jurnal7_3_2311104065.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T01:49:24.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jurnal7_2_2311104065.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jurnal7_2_2311104065.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\jurnal7_2_2311104065.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jurnal7_2_2311104065.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\jurnal7_2_2311104065.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:29:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jurnal7_2_nim.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jurnal7_2_nim.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\jurnal7_2_nim.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jurnal7_2_nim.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\jurnal7_2_nim.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:26:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\.gitignore.txt",
+              "RelativeDocumentMoniker": "modul7_kelompol7\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\.gitignore.txt",
+              "RelativeToolTip": "modul7_kelompol7\\.gitignore.txt",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAqwJEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-23T17:45:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "modul7_kelompol7.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\modul7_kelompol7.csproj",
+              "RelativeDocumentMoniker": "modul7_kelompol7\\modul7_kelompol7.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\07_Grammar-Based_Input_Processing_Parsing\\modul7_kelompol7\\modul7_kelompol7\\modul7_kelompol7.csproj",
+              "RelativeToolTip": "modul7_kelompol7\\modul7_kelompol7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T17:45:14.066Z"
             }
           ]
         }

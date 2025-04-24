@@ -1,6 +1,7 @@
 ﻿
-using JurnalModul_7_Kelompok_7;
+
 using System;
+using modul7_kelompol7;
 
 
 class Program
