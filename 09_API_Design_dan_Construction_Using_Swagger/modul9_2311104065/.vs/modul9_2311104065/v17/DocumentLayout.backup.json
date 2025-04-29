@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\modul9_2311104065\\modul9_2311104065\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|solutionrelative:modul9_2311104065\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\modul9_2311104065\\modul9_2311104065\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|solutionrelative:modul9_2311104065\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\modul9_2311104065\\modul9_2311104065\\modul9_2311104065.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|solutionrelative:modul9_2311104065\\modul9_2311104065.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\modul9_2311104065\\modul9_2311104065\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8F380B57-3D95-44ED-BB2E-5D7D5FA5ACC6}|modul9_2311104065\\modul9_2311104065.csproj|solutionrelative:modul9_2311104065\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "modul9_2311104065\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\Controllers\\MovieController.cs*",
+              "RelativeToolTip": "modul9_2311104065\\Controllers\\MovieController.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:57:29.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "modul9_2311104065\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\Models\\Movie.cs*",
+              "RelativeToolTip": "modul9_2311104065\\Models\\Movie.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:46:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modul9_2311104065",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\modul9_2311104065.csproj",
+              "RelativeDocumentMoniker": "modul9_2311104065\\modul9_2311104065.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\modul9_2311104065.csproj*",
+              "RelativeToolTip": "modul9_2311104065\\modul9_2311104065.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T14:43:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\.gitignore",
+              "RelativeDocumentMoniker": "modul9_2311104065\\.gitignore",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\modul9_2311104065\\modul9_2311104065\\.gitignore",
+              "RelativeToolTip": "modul9_2311104065\\.gitignore",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAQwI8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T14:34:20.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
