@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\bin\Debug\net8.0\StringLibary.deps.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\bin\Debug\net8.0\StringLibary.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\bin\Debug\net8.0\StringLibary.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.AssemblyInfo.cs
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.sourcelink.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\refint\StringLibary.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\StringLibary.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\10_Library_Construction\ClassLibaryProject\StringLibary\obj\Debug\net8.0\ref\StringLibary.dll
