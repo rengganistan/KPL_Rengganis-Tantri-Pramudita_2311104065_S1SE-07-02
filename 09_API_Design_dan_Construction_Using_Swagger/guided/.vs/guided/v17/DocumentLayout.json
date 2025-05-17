@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\guided\\guided\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|solutionrelative:guided\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\guided\\guided\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|solutionrelative:guided\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\guided\\guided\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|solutionrelative:guided\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\09_api_design_dan_construction_using_swagger\\guided\\guided\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A38FF-422F-4929-B213-2BBB86A2C55D}|guided\\guided.csproj|solutionrelative:guided\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "guided\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Models\\UserDto.cs",
+              "RelativeToolTip": "guided\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:54:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "guided\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "guided\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:25:07.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "guided\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Controllers\\UserController.cs",
+              "RelativeToolTip": "guided\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:27:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Models\\User.cs",
+              "RelativeDocumentMoniker": "guided\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\guided\\guided\\Models\\User.cs",
+              "RelativeToolTip": "guided\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:22:16.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

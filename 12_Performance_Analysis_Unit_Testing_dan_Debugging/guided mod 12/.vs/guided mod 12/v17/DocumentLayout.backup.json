@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09FA826-6BF0-4501-A6BF-BC8E7E6430AE}|unit_test\\unit_test.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\guided mod 12\\unit_test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09FA826-6BF0-4501-A6BF-BC8E7E6430AE}|unit_test\\unit_test.csproj|solutionrelative:unit_test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9285B-5B91-4F4B-8486-4D793EA8FDB6}|guided mod 12\\guided mod 12.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\guided mod 12\\guided mod 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9285B-5B91-4F4B-8486-4D793EA8FDB6}|guided mod 12\\guided mod 12.csproj|solutionrelative:guided mod 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09FA826-6BF0-4501-A6BF-BC8E7E6430AE}|unit_test\\unit_test.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\guided mod 12\\unit_test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09FA826-6BF0-4501-A6BF-BC8E7E6430AE}|unit_test\\unit_test.csproj|solutionrelative:unit_test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 531,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\unit_test\\Test1.cs",
+              "RelativeDocumentMoniker": "unit_test\\Test1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\unit_test\\Test1.cs",
+              "RelativeToolTip": "unit_test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:36:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\unit_test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "unit_test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\unit_test\\MSTestSettings.cs",
+              "RelativeToolTip": "unit_test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:31:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\guided mod 12\\Program.cs",
+              "RelativeDocumentMoniker": "guided mod 12\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\guided mod 12\\guided mod 12\\Program.cs",
+              "RelativeToolTip": "guided mod 12\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:21:42.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
