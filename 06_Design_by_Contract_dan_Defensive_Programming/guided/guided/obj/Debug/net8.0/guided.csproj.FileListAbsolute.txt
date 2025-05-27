@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.exe
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.deps.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.runtimeconfig.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\bin\Debug\net8.0\guided.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.AssemblyInfo.cs
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.sourcelink.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\refint\guided.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\guided.genruntimeconfig.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\guided\guided\obj\Debug\net8.0\ref\guided.dll
