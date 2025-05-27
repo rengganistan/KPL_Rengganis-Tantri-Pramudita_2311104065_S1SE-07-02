@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|c:\\kpl_rengganis-tantri-pramudita_2311104065_se0702\\06_design_by_contract_dan_defensive_programming\\modul6_2311104065\\modul6_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|solutionrelative:modul6_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|c:\\kpl_rengganis-tantri-pramudita_2311104065_se0702\\06_design_by_contract_dan_defensive_programming\\modul6_2311104065\\modul6_2311104065\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|solutionrelative:modul6_2311104065\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|c:\\kpl_rengganis-tantri-pramudita_2311104065_se0702\\06_design_by_contract_dan_defensive_programming\\modul6_2311104065\\modul6_2311104065\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F6747F-E52C-4165-9F8C-259E179FDB2B}|modul6_2311104065\\modul6_2311104065.csproj|solutionrelative:modul6_2311104065\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "modul6_2311104065\\SayaTubeUser.cs",
+              "ToolTip": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\SayaTubeUser.cs",
+              "RelativeToolTip": "modul6_2311104065\\SayaTubeUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:49:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "modul6_2311104065\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\SayaTubeVideo.cs",
+              "RelativeToolTip": "modul6_2311104065\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:49:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\Program.cs",
+              "RelativeDocumentMoniker": "modul6_2311104065\\Program.cs",
+              "ToolTip": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2311104065\\modul6_2311104065\\Program.cs",
+              "RelativeToolTip": "modul6_2311104065\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA5wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:44:37.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
