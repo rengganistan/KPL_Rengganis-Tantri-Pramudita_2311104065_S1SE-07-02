@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\bin\Debug\net8.0\guided_mod12.exe
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\bin\Debug\net8.0\guided_mod12.deps.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\bin\Debug\net8.0\guided_mod12.runtimeconfig.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\bin\Debug\net8.0\guided_mod12.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\bin\Debug\net8.0\guided_mod12.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.AssemblyInfo.cs
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.sourcelink.json
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\refint\guided_mod12.dll
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.pdb
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\guided_mod12.genruntimeconfig.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\guided mod 12\guided mod 12\obj\Debug\net8.0\ref\guided_mod12.dll
