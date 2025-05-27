@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfo.cs
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\13_Design_Pattern_Implementation\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.sourcelink.json

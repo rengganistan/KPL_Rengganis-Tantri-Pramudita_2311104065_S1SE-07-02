@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implement_dp", "implement_dp\implement_dp.csproj", "{3B962652-69C3-4323-92DA-DEB22E0A91A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B962652-69C3-4323-92DA-DEB22E0A91A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B962652-69C3-4323-92DA-DEB22E0A91A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B962652-69C3-4323-92DA-DEB22E0A91A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B962652-69C3-4323-92DA-DEB22E0A91A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC2066F-D6C4-4A95-9561-22B031FC9F2E}
+	EndGlobalSection
+EndGlobal
