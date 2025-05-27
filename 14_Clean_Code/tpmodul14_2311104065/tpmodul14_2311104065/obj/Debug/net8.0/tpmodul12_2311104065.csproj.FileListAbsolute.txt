@@ -1,5 +1,0 @@
-C:\tpmodul6_2311104065\tpmodul6_2311104065\obj\Debug\net8.0\tpmodul12_2311104065.GeneratedMSBuildEditorConfig.editorconfig
-C:\tpmodul6_2311104065\tpmodul6_2311104065\obj\Debug\net8.0\tpmodul12_2311104065.AssemblyInfoInputs.cache
-C:\tpmodul6_2311104065\tpmodul6_2311104065\obj\Debug\net8.0\tpmodul12_2311104065.AssemblyInfo.cs
-C:\tpmodul6_2311104065\tpmodul6_2311104065\obj\Debug\net8.0\tpmodul12_2311104065.csproj.CoreCompileInputs.cache
-C:\tpmodul6_2311104065\tpmodul6_2311104065\obj\Debug\net8.0\tpmodul12_2311104065.sourcelink.json
