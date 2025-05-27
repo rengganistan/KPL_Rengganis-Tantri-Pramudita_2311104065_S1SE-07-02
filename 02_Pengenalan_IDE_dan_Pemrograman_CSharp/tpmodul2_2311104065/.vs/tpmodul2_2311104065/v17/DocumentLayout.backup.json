@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\tpmodul2_2311104065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DAEE93-C0D6-4F91-B1C6-A87365E62AFA}|tpmodul2_2311104065\\tpmodul2_2311104065.csproj|c:\\kpl_rengganis-tantri-pramudita_2311104065_se0702\\02_pengenalan_ide_dan_pemrograman_csharp\\tpmodul2_2311104065\\tpmodul2_2311104065\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DAEE93-C0D6-4F91-B1C6-A87365E62AFA}|tpmodul2_2311104065\\tpmodul2_2311104065.csproj|solutionrelative:tpmodul2_2311104065\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\tpmodul2_2311104065\\tpmodul2_2311104065\\A.cs",
+              "RelativeDocumentMoniker": "tpmodul2_2311104065\\A.cs",
+              "ToolTip": "C:\\KPL_Rengganis-Tantri-Pramudita_2311104065_SE0702\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\tpmodul2_2311104065\\tpmodul2_2311104065\\A.cs*",
+              "RelativeToolTip": "tpmodul2_2311104065\\A.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:37:28.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
