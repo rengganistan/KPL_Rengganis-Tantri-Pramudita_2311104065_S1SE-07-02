@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\14_clean_code\\modul14_2311104065\\modul14_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|solutionrelative:modul14_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\14_clean_code\\modul14_2311104065\\modul14_2311104065\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|solutionrelative:modul14_2311104065\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\14_clean_code\\modul14_2311104065\\modul14_2311104065\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|solutionrelative:modul14_2311104065\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\14_clean_code\\modul14_2311104065\\modul14_2311104065\\modul14_2311104065.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C038DF0A-5219-46B5-A86E-AFACF50DF12C}|modul14_2311104065\\modul14_2311104065.csproj|solutionrelative:modul14_2311104065\\modul14_2311104065.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\Program.cs",
+              "RelativeDocumentMoniker": "modul14_2311104065\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\Program.cs",
+              "RelativeToolTip": "modul14_2311104065\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:22:14.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodeBuah.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\KodeBuah.cs",
+              "RelativeDocumentMoniker": "modul14_2311104065\\KodeBuah.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\KodeBuah.cs",
+              "RelativeToolTip": "modul14_2311104065\\KodeBuah.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:24:57.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modul14_2311104065",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\modul14_2311104065.csproj",
+              "RelativeDocumentMoniker": "modul14_2311104065\\modul14_2311104065.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\modul14_2311104065.csproj",
+              "RelativeToolTip": "modul14_2311104065\\modul14_2311104065.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T02:23:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "modul14_2311104065\\PosisiKarakterGame.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\14_Clean_Code\\modul14_2311104065\\modul14_2311104065\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "modul14_2311104065\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:23:58.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
