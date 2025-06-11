@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\bin\\Debug\\net8.0\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modul15_2311104065\\bin\\Debug\\net8.0\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\15_review_tugas_besar\\modul15_2311104065\\modul15_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|solutionrelative:modul15_2311104065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\15_review_tugas_besar\\modul15_2311104065\\modul15_2311104065\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|solutionrelative:modul15_2311104065\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|c:\\users\\user\\source\\repos\\kpl_rengganis-tantri-pramudita_2311104065_s1se-07-02\\15_review_tugas_besar\\modul15_2311104065\\modul15_2311104065\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118D76D5-E1EC-4B6A-BDFC-E9D8A09DB4AC}|modul15_2311104065\\modul15_2311104065.csproj|solutionrelative:modul15_2311104065\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\bin\\Debug\\net8.0\\users.json",
+              "RelativeDocumentMoniker": "modul15_2311104065\\bin\\Debug\\net8.0\\users.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\bin\\Debug\\net8.0\\users.json",
+              "RelativeToolTip": "modul15_2311104065\\bin\\Debug\\net8.0\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T16:13:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\AuthService.cs",
+              "RelativeDocumentMoniker": "modul15_2311104065\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\AuthService.cs",
+              "RelativeToolTip": "modul15_2311104065\\AuthService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:52:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\User.cs",
+              "RelativeDocumentMoniker": "modul15_2311104065\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\User.cs",
+              "RelativeToolTip": "modul15_2311104065\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:51:48.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\Program.cs",
+              "RelativeDocumentMoniker": "modul15_2311104065\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\KPL_Rengganis-Tantri-Pramudita_2311104065_S1SE-07-02\\15_Review_Tugas_Besar\\modul15_2311104065\\modul15_2311104065\\Program.cs",
+              "RelativeToolTip": "modul15_2311104065\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:50:23.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
